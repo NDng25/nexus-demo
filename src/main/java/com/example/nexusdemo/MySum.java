@@ -6,7 +6,7 @@ public class MySum {
         System.out.println("Members:");
         for (String i :
                 names) {
-            System.out.println("{"+i+"},");
+            System.out.println(i+",");
         }
     }
 
